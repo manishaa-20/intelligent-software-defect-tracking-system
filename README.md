@@ -1,4 +1,6 @@
-# Intelligent Software Defect Tracking System with Resolution Assistance 🐞
+## 🚀 Live Dashboard
+
+[👉 Open Intelligent Software Defect Tracking Dashboard](https://intelligent-software-defect-tracking-system-uea6kthlzpfmhmnzwv.streamlit.app/)# Intelligent Software Defect Tracking System with Resolution Assistance 🐞
 
 An interactive Streamlit dashboard for software defect analytics, KPI monitoring, bug life-cycle analysis, and resolution assistance.
 
