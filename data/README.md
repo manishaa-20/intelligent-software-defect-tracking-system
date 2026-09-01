@@ -1,0 +1,1 @@
+Place the final project CSV/XLSX here if you want a bundled dataset. The included sample_bug_dataset.csv is synthetic demo data and should be replaced by the real project dataset for final analytical reporting.
