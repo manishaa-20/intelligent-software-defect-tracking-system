@@ -2,9 +2,9 @@
 
 An interactive web-based platform for software defect tracking, analytics, KPI monitoring, bug life-cycle analysis, sprint and module analysis, team performance monitoring, and intelligent defect resolution assistance.
 
-## 🚀 LIVE DASHBOARD
+## 🌐 Live Dashboard
 
-👉 **[Open Intelligent Software Defect Tracking System](https://intelligent-software-defect-tracking-system-xxmtpcwdvnzxy9ab.streamlit.app/)**
+[🚀 Open Intelligent Software Defect Tracking System](https://intelligent-software-defect-tracking-system-xxxtmtpcwdvnzxy9ab.streamlit.app/)
 
 The application is deployed using Streamlit Community Cloud and can be accessed directly through a web browser.
 
